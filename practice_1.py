@@ -8,7 +8,7 @@ while True:
             break
         else:
             print(f"عدد وارد کنید{n}")
-            numbers = [int(number) for number in input().split()]
+           
 
 
 print(max(numbers))
